@@ -1,16 +1,64 @@
-## Hi there 👋
+# Muhammad Saif
 
-<!--
-**rajasaifr/rajasaifr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Student @ FAST NUCES · Teaching Assistant · Builder**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+Third-year Computer Science undergraduate at **FAST NUCES Lahore** (CGPA: 3.61).
+
+I enjoy building systems across the stack — from **low-level x86 assembly** to **modern web and mobile applications**.
+
+Currently serving as a **Teaching Assistant for the Data Structures Lab**.
+
+---
+
+## Skills
+
+**Languages**  
+Python · C/C++ · JavaScript · TypeScript · Dart · SQL · x86 Assembly  
+
+**ML / Data**  
+Scikit-learn · Pandas · NumPy · Feature Engineering · Model Evaluation  
+
+**Web / Mobile**  
+Node.js · React · Flutter · Firebase  
+
+**Tools**  
+Git · Jupyter · VS Code · MySQL · Linux  
+
+---
+
+## Projects
+
+**Stock Volatility Dashboard**  
+Python · Streamlit · yfinance  
+
+**Movie Recommender System**  
+Python · Scikit-learn · NLTK  
+
+**Sportify (Group Viewing App)**  
+Flutter · Firebase  
+
+**Restaurant Management System**  
+Node.js · React · SQL Server  
+
+**Facebook-like Social Network**  
+C++ · OOP · File I/O  
+
+**Falling Letters Game**  
+x86 Assembly · MS-DOS · TSR · Interrupts  
+
+**Tenzies Dice Game**  
+React  
+
+**React Endgame (Word Guessing)**  
+React  
+
+---
+
+## Contact
+
+📧 **Email:** saiff.rsh@gmail.com  
+💼 **LinkedIn:** raja-saif  
+💻 **GitHub:** rajasaifr
