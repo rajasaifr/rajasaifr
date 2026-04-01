@@ -1,6 +1,6 @@
 # Muhammad Saif
 
-**CS Student @ FAST NUCES · Teaching Assistant · Builder**
+**CS Student @ FAST NUCES · Teaching Assistant · Full Stack Developer**
 
 ---
 
@@ -59,6 +59,6 @@ React
 
 ## Contact
 
-📧 **Email:** saiff.rsh@gmail.com  
+📧 **Email:** saiff2093@gmail.com  
 💼 **LinkedIn:** raja-saif  
 💻 **GitHub:** rajasaifr
