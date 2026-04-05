@@ -5,7 +5,7 @@
 ---
 
 ## About
-Third-year Computer Science undergraduate at **FAST NUCES Lahore** (CGPA: 3.61).
+Third-year Computer Science undergraduate at **FAST NUCES Lahore** .
 
 I enjoy building systems across the stack — from **low-level x86 assembly** to **modern web and mobile applications**.
 
