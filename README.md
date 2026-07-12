@@ -5,11 +5,9 @@
 ---
 
 ## About
-Third-year Computer Science undergraduate at **FAST NUCES Lahore** .
+Final-year Computer Science undergraduate at **FAST NUCES Lahore** .
 
-I enjoy building systems across the stack — from **low-level x86 assembly** to **modern web and mobile applications**.
-
-Currently serving as a **Teaching Assistant for the Data Structures Lab**.
+Focused on solving complex real-world problems using mathematics, machine learning, and AI. Interests include LLMs, SLMs, reinforcement learning, retrieval systems, and intelligent automation.
 
 ---
 
