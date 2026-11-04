@@ -1,13 +1,13 @@
 # Muhammad Saif
 
-**CS Student @ FAST NUCES · Teaching Assistant · Full Stack Developer**
+**CS Student @ FAST NUCES · AI Reseacher
 
 ---
 
 ## About
 Final-year Computer Science undergraduate at **FAST NUCES Lahore** .
 
-Focused on solving complex real-world problems using mathematics, machine learning, and AI. Interests include LLMs, SLMs, reinforcement learning, retrieval systems, and intelligent automation.
+Focused on solving complex real-world problems using mathematics, machine learning, and AI. Interests include LLMs, SLMs, reinforcement learning, cognitive AI, and MAS.
 
 ---
 
