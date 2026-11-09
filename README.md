@@ -1,6 +1,6 @@
 # Muhammad Saif
 
-**CS Student @ FAST NUCES · AI Reseacher
+CS Senior @ FAST NUCES 
 
 ---
 
